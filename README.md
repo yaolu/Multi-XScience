@@ -1,6 +1,8 @@
 # Multi-XScience
 
-Dataset for the EMNLP 2020 paper, [Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles](https://arxiv.org/abs/2010.14235). 
+Dataset for the EMNLP 2020 paper, [Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles](https://arxiv.org/abs/2010.14235).
+
+Authors: [Yao Lu](https://yaolu.github.io), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/), [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/)
 
 # Dataset Statistics
 
