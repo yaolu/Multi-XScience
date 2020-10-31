@@ -14,7 +14,7 @@ Authors: [Yao Lu](https://yaolu.github.io), [Yue Dong](https://www.cs.mcgill.ca/
 
 We also calculate the percentage of novel n-grams in the target summary of previous datasets. Three of them are single-document summarization datasets. Our dataset has the highest abstractiveness among all existing multi-document summarization datasets.
 
-|        Datasets        | % of novel unigrams | % of novel bi-grams | % of novel tri-grams | % of novel 4-grams |
+|        Datasets        | % of novel unigram | % of novel bi-grams | % of novel tri-grams | % of novel 4-grams |
 | :--------------------: | :-----------------: | :-----------------: | :------------------: | :----------------: |
 | CNN-DailyMail (single) |        17.00        |        53.91        |        71.98         |       80.29        |
 |   NY Times (single)    |        22.64        |        55.59        |        71.93         |       80.16        |
