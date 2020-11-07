@@ -4,6 +4,8 @@ Dataset for the EMNLP 2020 paper, [Multi-XScience: A Large-scale Dataset for Ext
 
 Authors: [Yao Lu](https://yaolu.github.io), [Yue Dong](https://www.cs.mcgill.ca/~ydong26/), [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/)
 
+[Appendix](https://yaolu.github.io/upload/multixscience/Multi_XScience_Appendix.pdf): model implementation and evaluation details.
+
 # Dataset Statistics
 
 |   train/val/test examples   | average document length | summary length | number of references |
