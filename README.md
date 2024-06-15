@@ -8,6 +8,8 @@ Authors: [Yao Lu](https://yaolu.github.io), [Yue Dong](https://www.cs.mcgill.ca/
 
 # Dataset Statistics
 
+word-level statistics
+
 |   train/val/test examples   | average document length | summary length | number of references |
 | :----------------: | :---------------------: | :------------: | :------------------: |
 | 30,369/5,066/5,093 |         778.08          |     116.44     |         4.42         |
